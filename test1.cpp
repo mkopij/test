@@ -1,7 +1,13 @@
 #include <iostream>
 
-
 using std::cout;
+
+void test()
+{
+
+	cout << "Pisze ta funkcje po moim pierwszym commicie\n";
+	return;
+}
 
 int main()
 {
